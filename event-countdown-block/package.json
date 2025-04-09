@@ -1,0 +1,17 @@
+{
+  "name": "event-countdown-block",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build",
+    "env:start": "wp-env start"
+  },
+  "dependencies": {
+    "@wordpress/blocks": "^11.0.0",
+    "@wordpress/components": "^19.0.0",
+    "@wordpress/i18n": "^4.0.0"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^24.0.0"
+  }
+}
